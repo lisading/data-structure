@@ -13,6 +13,7 @@
 
 using namespace std;
 
+// To create a magic square of size n; n is odd.
 void Magic(const int n);
 int main()
 {
