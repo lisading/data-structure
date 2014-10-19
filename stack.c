@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #define ASIZE 5
 int stack[ASIZE]={0};
 int top=-1;
